@@ -1,0 +1,4 @@
+camel:
+  springboot:
+    routes-include-pattern: classpath:camel-routes/*   #how and where to read the xml file,read from classpath,look fo folder cmel-routes e /* tutto quello che cè sotto
+    main-run-controller: true  #condizione obbligatoria per il funzionamento

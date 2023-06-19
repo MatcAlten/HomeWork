@@ -1,0 +1,8 @@
+<routes xmlns="http://camel.apache.org/schema/spring/v4.0">
+    <route id="file-mover">
+        <from uri="file:///tmp/camel"/>
+        <log message="Headers: ${headers}"/>
+        <log message="Body: ${body}"/>
+        <to uri="file:///tmp/camel/processed"/>
+    </route>
+</routes>

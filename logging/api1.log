@@ -1,0 +1,27 @@
+2023-06-16 17:45:29 [main] INFO  c.logging.logging.LoggingApplication - Starting LoggingApplication using Java 17.0.6 with PID 25612 (C:\Users\mchiadini\Documents\GitHub\logging\target\classes started by mchiadini in C:\Users\mchiadini\Documents\GitHub\logging)
+2023-06-16 17:45:29 [main] DEBUG c.logging.logging.LoggingApplication - Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 17:45:29 [main] INFO  c.logging.logging.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 17:45:30 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-06-16 17:45:30 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-06-16 17:45:30 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-06-16 17:45:30 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-06-16 17:45:30 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1593 ms
+2023-06-16 17:45:31 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-06-16 17:45:31 [main] INFO  c.logging.logging.LoggingApplication - Started LoggingApplication in 3.062 seconds (process running for 3.573)
+2023-06-16 17:46:06 [main] INFO  c.logging.logging.LoggingApplication - Starting LoggingApplication using Java 17.0.6 with PID 11372 (C:\Users\mchiadini\Documents\GitHub\logging\target\classes started by mchiadini in C:\Users\mchiadini\Documents\GitHub\logging)
+2023-06-16 17:46:06 [main] DEBUG c.logging.logging.LoggingApplication - Running with Spring Boot v3.1.0, Spring v6.0.9
+2023-06-16 17:46:06 [main] INFO  c.logging.logging.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2023-06-16 17:46:07 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9090 (http)
+2023-06-16 17:46:07 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-06-16 17:46:07 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-06-16 17:46:07 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-06-16 17:46:07 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1556 ms
+2023-06-16 17:46:08 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9090 (http) with context path ''
+2023-06-16 17:46:08 [main] INFO  c.logging.logging.LoggingApplication - Started LoggingApplication in 2.982 seconds (process running for 3.518)
+2023-06-16 17:46:11 [http-nio-9090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-06-16 17:46:11 [http-nio-9090-exec-1] DEBUG c.logging.logging.LoggingApplication - Request Matteo
+2023-06-16 17:46:11 [http-nio-9090-exec-1] DEBUG c.logging.logging.LoggingApplication - Response Hi Matteo,welcome to logging lessons
+2023-06-16 17:46:13 [http-nio-9090-exec-2] DEBUG c.logging.logging.LoggingApplication - Request Matteo
+2023-06-16 17:46:13 [http-nio-9090-exec-2] DEBUG c.logging.logging.LoggingApplication - Response Hi Matteo,welcome to logging lessons
+2023-06-16 17:46:14 [http-nio-9090-exec-3] DEBUG c.logging.logging.LoggingApplication - Request Matteo
+2023-06-16 17:46:14 [http-nio-9090-exec-3] DEBUG c.logging.logging.LoggingApplication - Response Hi Matteo,welcome to logging lessons
