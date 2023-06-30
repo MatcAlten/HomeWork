@@ -1,0 +1,8 @@
+module virtual.threads.demo {
+    requires jdk.incubator.concurrent;    //include virtual threads specification
+    requires org.slf4j;                   // for logs
+    requires static lombok;
+    requires spring.boot.autoconfigure;
+    requires spring.boot;
+    requires spring.web;  //for annotations
+}

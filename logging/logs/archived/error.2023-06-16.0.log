@@ -1,4 +1,4 @@
-2023-06-19 19:00:19 [http-nio-9090-exec-7] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] -
+2023-06-16 18:11:55 [http-nio-9090-exec-5] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] -
                 Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.RuntimeException: Exception raised. . .] with root cause
 java.lang.RuntimeException: Exception raised. . .
 	at com.logging.logging.LoggingApplication.greeting(LoggingApplication.java:25)
